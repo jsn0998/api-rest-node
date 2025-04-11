@@ -1,4 +1,4 @@
-
+API REST completa para crear un blog con el MERN Stack (CRUD de coleccion Articulo)
 Para ejecutar el proyecto se debe de ejecutar en consola npm i y se instalaran los paquetes
 Nota: Manual Tecnico del proyecto de nodeJs ==> GuiaNodeMovil.docx
 
